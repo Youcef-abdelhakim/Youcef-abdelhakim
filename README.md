@@ -1,7 +1,7 @@
 CS Student and Web Developer
 ----------------------------
 
-I am 2nd CS student, Web developer
+I am 2nd year CS student, Web developer
 
 ### Skills
 
