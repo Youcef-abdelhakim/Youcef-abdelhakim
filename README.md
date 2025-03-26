@@ -24,4 +24,4 @@ I am 2nd year CS student, Web developer
 
 
 ### 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Youcef-abdelhakim&layout=compact&theme=radical)
