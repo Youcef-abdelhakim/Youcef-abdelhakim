@@ -25,6 +25,7 @@ I am 2nd year CS student, Web developer
 
 
 </p>
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white)
 
 
 ### Socials
