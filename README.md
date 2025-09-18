@@ -18,6 +18,8 @@ I am 2nd year CS student, Web developer
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="36" height="36" alt="Postman" /></a>
+<a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" width="36" height="36" alt="Prisma" /></a>
+
 
 
 </p>
