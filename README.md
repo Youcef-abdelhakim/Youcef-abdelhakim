@@ -9,9 +9,10 @@ I am 2nd year CS student, Web developer
 <p align="left">
 
 [![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)](https://docs.microsoft.com/en-us/cpp/?view=msvc-170)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/doc/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://www.oracle.com/java/)
+[![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)](https://docs.oracle.com/en/java/)
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Sass](https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=white)](https://sass-lang.com/)
