@@ -1,6 +1,6 @@
 CS Student and Web Developer
 ----------------------------
-##About Me
+### About Me
 
 
 -🧑🏻‍🎓 I'm a **3rd-year Computer Science Engineering student**, specializing in **Artificial Intelligence (AI)** at [**USTHB**](https://your-link.com).
