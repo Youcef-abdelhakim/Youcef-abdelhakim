@@ -8,7 +8,7 @@ CS Student and Web Developer
 
 -🎯 I'm currently focused on **Front-end development**, crafting **modern**, **responsive**, and **user-friendly** web interfaces.
 - ✉️ Reach me at ...
-
+----------------------------
 
 
 ### Languages and Tools
